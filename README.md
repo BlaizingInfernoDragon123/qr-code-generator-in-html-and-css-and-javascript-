@@ -6,10 +6,10 @@ Hello everyone in this repository I m gonna show demo of how to make a qr code g
 View the webpage live here at github pages
 `
 
-<a href="https://blaizinginfernodragon123.github.io/login-form-UI-using-only-html-css-and-javascript-/" target=”_blank”>
+<a href="https://blaizinginfernodragon123.github.io/qr-code-generator-in-html-and-css-and-javascript-/" target=”_blank”>
 
 ```
-https://blaizinginfernodragon123.github.io/login-form-UI-using-only-html-css-and-javascript-/
+https://blaizinginfernodragon123.github.io/qr-code-generator-in-html-and-css-and-javascript-/
 ```
 </a>
 
