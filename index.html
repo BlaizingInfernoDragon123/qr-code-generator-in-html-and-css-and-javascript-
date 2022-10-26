@@ -16,15 +16,6 @@
 
 <script src="https://blaizinginfernodragon123.github.io/youtube-video-downloader-/script.js" crossorigin="anonymous" referrerpolicy="no-referrer" ></script>
 <script src="https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/js/script.js"  crossorigin="anonymous" referrerpolicy="no-referrer" ></script>
-<script>
-  function showAlert() {
-    alert (Your qr code is being generated!)
-  }
-  </script>
-
-<script type="text/javascript">
-console.log(document.cookie)
-</script>
 
 </head>
   <body onload="setCookie">
@@ -34,7 +25,7 @@ console.log(document.cookie)
         <p>Paste a url or enter text to create QR code</p>
       </header>
       <div class="form">
-        <input type="text" spellcheck="false" placeholder="Enter text or url">
+        <input type="text" spellcheck="true" placeholder="Enter text or url..." required>
         <button onclick="showAlert()">Generate QR Code</button>
       </div>
       <div class="qr-code">
@@ -44,6 +35,15 @@ console.log(document.cookie)
 
     <script src="js/script.js"></script>
     <script src="js/all.js"></script>
+   <script>
+  function showAlert() {
+    alert ("Your qr code is being generated,kindly wait...");
+  }
+  </script>
+
+<script type="text/javascript">
+console.log(document.cookie)
+</script>
 
   </body>
 </html>
